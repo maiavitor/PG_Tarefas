@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TX.dir/src.cpp.o CMakeFiles/TX.dir/Sprite.cpp.o -o TX  libGLAD.a /usr/lib/libglfw.so.3.4  -ldl

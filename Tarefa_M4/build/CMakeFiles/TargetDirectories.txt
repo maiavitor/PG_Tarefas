@@ -1,0 +1,4 @@
+/home/ttebas/Documentos/Unisinos/PG/M4/tarefa/build/CMakeFiles/GLAD.dir
+/home/ttebas/Documentos/Unisinos/PG/M4/tarefa/build/CMakeFiles/TX.dir
+/home/ttebas/Documentos/Unisinos/PG/M4/tarefa/build/CMakeFiles/edit_cache.dir
+/home/ttebas/Documentos/Unisinos/PG/M4/tarefa/build/CMakeFiles/rebuild_cache.dir
