@@ -1,0 +1,4 @@
+/home/ttebas/Documentos/Unisinos/PG/M5/Tarefa_M5/build/CMakeFiles/GLAD.dir
+/home/ttebas/Documentos/Unisinos/PG/M5/Tarefa_M5/build/CMakeFiles/TX.dir
+/home/ttebas/Documentos/Unisinos/PG/M5/Tarefa_M5/build/CMakeFiles/edit_cache.dir
+/home/ttebas/Documentos/Unisinos/PG/M5/Tarefa_M5/build/CMakeFiles/rebuild_cache.dir
